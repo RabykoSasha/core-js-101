@@ -286,7 +286,6 @@ function getCardId(value) {
   return arrCard.indexOf(value);
 }
 
-
 module.exports = {
   concatenateStrings,
   getStringLength,
